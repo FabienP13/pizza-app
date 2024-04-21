@@ -8,7 +8,7 @@ Application Android pour commander des pizzas.
 
 -   Sign in (Firebase)
 -   Sign out (Firebase)
--   Affichage des pizzas enregistrés dans la base de données
+-   Affichage des pizzas enregistrés dans la base de données (Firebase)
 -   Page détails d'une pizza.
 
 ## Guide d'utilisation :
