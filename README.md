@@ -14,7 +14,7 @@ Application Android pour commander des pizzas.
 ### 1. Dans Visual Studio Code:
 
 1.1. Sélectionner un émulateur Android OU un navigateur web.
---> Attention : l'application est adaptée à une application Android, sur le web, certaines risques de ne pas être lisibles.
+--> **ATTENTION** : l'application est adaptée à une application Android, sur le web, certaines risques de ne pas être lisibles.
 
 1.2. Sélectionner un appareil :
 
@@ -37,8 +37,8 @@ Application Android pour commander des pizzas.
 
 ### 2. Créer un compte via l'onglet SignOut de l'application
 
-2.1. Renseigner un email (factice ou non) :
+    2.1. Renseigner un email (factice ou non) :
 
-2.2. Saisir un mot de passe en respectant les conditions demandées
+    2.2. Saisir un mot de passe en respectant les conditions demandées
 
 ### 3. Vous êtes sur la page d'accueil
