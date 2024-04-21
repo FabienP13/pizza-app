@@ -14,7 +14,8 @@ Application Android pour commander des pizzas.
 ### 1. Dans Visual Studio Code:
 
 1.1. Sélectionner un émulateur Android OU un navigateur web.
---> **ATTENTION** : l'application est adaptée à une application Android, sur le web, certaines risques de ne pas être lisibles.
+
+**ATTENTION** : l'application est adaptée à une application Android, sur le web, certaines risques de ne pas être lisibles.
 
 1.2. Sélectionner un appareil :
 
