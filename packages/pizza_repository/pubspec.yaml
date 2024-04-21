@@ -1,5 +1,5 @@
 name: pizza_repository
-description: The repo that handles pizzas
+description: The repo that handle pizzas
 publish_to: 'none'
 version: 0.1.0
 
@@ -9,6 +9,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  
+  
+  cloud_firestore: ^4.17.0
+  
 
 dev_dependencies:
   flutter_test:

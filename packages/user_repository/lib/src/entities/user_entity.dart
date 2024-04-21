@@ -11,7 +11,7 @@ class MyUserEntity {
     required this.hasActiveCart,
   });
 
-  Map<String, Object?> toJson() {
+  Map<String, Object?> toDocument() {
     return {
       'userId': userId,
       'email': email,
@@ -20,7 +20,7 @@ class MyUserEntity {
     };
   }
 
-  static MyUserEntity fromJson(Map<String, dynamic> json) {
+  static MyUserEntity fromDocument(Map<String, dynamic> json) {
     return MyUserEntity(
         userId: json['userId'],
         email: json['email'],
