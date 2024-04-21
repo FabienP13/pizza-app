@@ -1,5 +1,7 @@
 # flutter_ESGI_M2_IW
 
+**PONCET Fabien - BOUTERBIAT Bilal-REGNAULT Basile - HALLOULI Walid**
+
 Application Android pour commander des pizzas.
 
 ## Fonctionnalités:
